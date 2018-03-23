@@ -1,7 +1,0 @@
-Rapid EMI Formatter (REF) Notes
-Date started: 10/31/17
-Purpose:  Keep track of notes for the development of the MS Excel Macro for EMI.  
-
-User Interface:
-
-The primary user interface will be the 
