@@ -1,2 +1,2 @@
-# REF_Macro
-Rapid EMI Formatter to convert lab data into client deliverables.
+# VBA_Macros
+Development folder for all the MS Excel VBA macros created for learning and Enviromental Management Inc. (EMI).
